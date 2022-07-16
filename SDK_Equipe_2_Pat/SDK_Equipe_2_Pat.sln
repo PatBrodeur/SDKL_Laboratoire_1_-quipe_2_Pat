@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK_Equipe_2_Pat", "SDK_Equipe_2_Pat\SDK_Equipe_2_Pat.csproj", "{F3D126C8-2B20-466E-98A2-B686FEBC5047}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDK_Equipe_2_Pat", "SDK_Equipe_2_Pat\SDK_Equipe_2_Pat.csproj", "{F3D126C8-2B20-466E-98A2-B686FEBC5047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrairieConversionNote", "LibrairieConversionNote\LibrairieConversionNote.csproj", "{9CF789F2-769E-4C69-9968-364FD833A34C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F3D126C8-2B20-466E-98A2-B686FEBC5047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3D126C8-2B20-466E-98A2-B686FEBC5047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3D126C8-2B20-466E-98A2-B686FEBC5047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF789F2-769E-4C69-9968-364FD833A34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF789F2-769E-4C69-9968-364FD833A34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF789F2-769E-4C69-9968-364FD833A34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF789F2-769E-4C69-9968-364FD833A34C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
